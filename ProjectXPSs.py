@@ -322,6 +322,7 @@ while True:
                 ("Doxbin", "doxbin.com"),
                 ("hackforums", "hackforums.com"),
                 ("Game Pirating", "https://itorrents-igruha.org/"),
+              ("WormGPT", "https:/wormgpt.com.co"),
             ]
 
             for name, url in hidden_service_links:
